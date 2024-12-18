@@ -1,2 +1,4 @@
-# BasicHtmlWebsite_RoadmapSh_Alexandre
-A basic html website to pratice Html Structure.
+# BasicHtmlWebsite for Roadmap.sh by AlexandreGM
+This is just a pratice pure html core to understand better pure html structure.
+
+Project proposed by https://roadmap.sh/projects/basic-html-website
