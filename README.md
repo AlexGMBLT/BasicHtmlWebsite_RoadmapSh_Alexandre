@@ -1,4 +1,4 @@
-# Basic Html Website for Roadmap.sh by AlexandreGM
+# Basic Html Website - Understanding HTML Structure.
 Pratice project proposed by Roadmap.sh to understand better how HTML structures work.<br>
 You can see the page by clicking in the link below.
 
